@@ -1,8 +1,6 @@
 const fs=require("fs")
 
-// bugs: 
-// check how to do import and require() in same file
-// then import chalk
+
 
 
 function loadNotes()
